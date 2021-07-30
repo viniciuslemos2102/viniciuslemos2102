@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vinícius Lemos
+## Olá! Eu sou o <a href="https://my-profile-sable.vercel.app/" target="_blank">Vinícius Lemos</a>
 
 - 🔭 Hoje trabalho como Full Stack Asp-net
 - 🌱 Estou estudando Java e JavaScript
@@ -29,19 +29,19 @@
 </div>
   
   ##
-  
-  
+   Onde me encontra 
   <div> 
   <a href = "mailto:viniciuslemoscontato21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/vin%C3%ADcius-lemos-35b497178/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
   
   ##
-   Meus Projetos de Design
+   Meus Projetos de Design e Ui 
   <div >
     <a href = "https://br.pinterest.com/viniciuslemoscontato21"><img src="https://aleen42.github.io/badges/src/pinterest.svg" target="_blank"></a>  
     <a href = "https://www.behance.net/viniciuslemos3"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>
     
-    ![Snake animation](https://github.com/viniciuslemos2102/viniciuslemos2102/blob/output/github-contribution-grid-snake.svg)
+    
   </div>  
   
+  ![Snake animation](https://github.com/viniciuslemos2102/viniciuslemos2102/blob/output/github-contribution-grid-snake.svg)
