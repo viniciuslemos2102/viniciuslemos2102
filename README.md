@@ -31,15 +31,15 @@
   ##
    Onde me encontra 
   <div> 
-  <a href = "mailto:viniciuslemoscontato21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a target="_blank" href = "mailto:viniciuslemoscontato21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
     <a href="https://www.linkedin.com/in/vin%C3%ADcius-lemos-35b497178/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
   
   ##
    Meus Projetos de Design e Ui 
   <div >
-    <a href = "https://br.pinterest.com/viniciuslemoscontato21"><img src="https://aleen42.github.io/badges/src/pinterest.svg" target="_blank"></a>  
-    <a href = "https://www.behance.net/viniciuslemos3"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>
+    <a href = "https://br.pinterest.com/viniciuslemoscontato21" target="_blank"><img src="https://aleen42.github.io/badges/src/pinterest.svg" ></a>  
+    <a href = "https://www.behance.net/viniciuslemos3" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" ></a>
     
     
   </div>  
