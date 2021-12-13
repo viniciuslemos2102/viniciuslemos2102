@@ -2,8 +2,8 @@
 
 - 🔭 Hoje trabalho como Full Stack Asp-net
 - 🌱 Estou estudando Java e JavaScript
-- 👯 Sou Colaborador na <a href="">Sales Investiment Network</a>
-- 😄 Pronouns: Ele/dele
+- 👯 Sou Colaborador na <a href="https://www.benner.com.br/">Benner Saúde</a>
+- 😄 22 anos
 
 <div>
   <a href="https://github.com/viniciuslemos2102">
