@@ -6,6 +6,7 @@
 - 👨‍ Sou DIO Campus Expert pela <a href="https://web.dio.me/users/viniciuslemoscontato21?tab=skills">Digital one innovation</a>
 - 😄 23 anos
 
+
 <div>
   <a href="https://github.com/viniciuslemos2102">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciuslemos2102&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -29,6 +30,8 @@
   <img align="center" alt="Rafa-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">
 </div>
   
+  ## 🥷 Skills extras
+      UX UI Design | Web Design | Amante de Front-end
   ##
    Onde me encontra 
   <div> 
