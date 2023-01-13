@@ -1,9 +1,10 @@
 ## Olá! Eu sou o <a href="https://my-profile-sable.vercel.app/" target="_blank">Vinícius Lemos</a>
 
 - 🔭 Hoje trabalho como Full Stack Asp-net
-- 🌱 Estou estudando Java e JavaScript
-- 👯 Sou Colaborador na <a href="https://www.benner.com.br/">Benner Saúde</a>
-- 😄 22 anos
+- 🌱 Estou estudando React e c#
+- 🎓 Sou formado em Ciencia da Computação pela <a href="https://www.pitagoras.com.br/">Pitagoras</a>
+- 👨‍ Sou DIO Campus Expert pela <a href="https://web.dio.me/users/viniciuslemoscontato21?tab=skills">Digital one innovation</a>
+- 😄 23 anos
 
 <div>
   <a href="https://github.com/viniciuslemos2102">
