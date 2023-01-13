@@ -31,7 +31,9 @@
 </div>
   
   ## 🥷 Skills extras
+  <div>
       UX UI Design | Web Design | Amante de Front-end
+  </div>
   ##
    Onde me encontra 
   <div> 
@@ -49,3 +51,4 @@
   </div>  
   
   ![Snake animation](https://github.com/viniciuslemos2102/viniciuslemos2102/blob/output/github-contribution-grid-snake.svg)
+      </div>
