@@ -4,7 +4,7 @@
 - 🌱 Estou estudando React e c#
 - 🎓 Sou formado em Ciencia da Computação pela <a href="https://www.pitagoras.com.br/">Pitagoras</a>
 - 👨‍ Sou DIO Campus Expert pela <a href="https://web.dio.me/users/viniciuslemoscontato21?tab=skills">Digital one innovation</a>
-- 😄 23 anos
+- 😄 24 anos
 
 
 <div>
